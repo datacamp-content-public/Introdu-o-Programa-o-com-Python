@@ -1,39 +1,35 @@
 ---
-title: Test
-description: Test
+  title: "Capítulo Primeiro"
+  description: "Operações matemáticas e \"Olá Mundo!\""
+  v2: true
 
 ---
-## Sample exercise
+## Operações matemáticas básicas na consola
 
 ```yaml
 type: NormalExercise
 lang: python
 xp: 100
 skills: 2
-key: 195939bad3
+key: deb75dfa69
+
+
+
 ```
+
 
 
 `@instructions`
 
+
 `@hint`
 
-`@pre_exercise_code`
-```{python}
 
-```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
 
-```
 
-`@sct`
-```{python}
 
-```
+
+
